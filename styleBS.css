@@ -68,7 +68,9 @@ button:focus{
   color: black;
   margin-right:15px ;
 }
-
+.container-4{
+  border-radius: 10px;
+}
 @media screen and (max-width:1000px){
   #content-1{
     padding-top: 70px;
@@ -76,6 +78,7 @@ button:focus{
   .container-4{
     margin:20px ;
     overflow: hidden;
+    border-radius: 10px;
   }
   .footer-container{
     display: flex;
